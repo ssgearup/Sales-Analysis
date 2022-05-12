@@ -1,4 +1,4 @@
-# power-bi-project
+Sales Analysis
 Problem statement- 1- What is the Average days that we deliver the product.
 2- How much sales has been done till now.
 3- Which year makes the highest profit.
